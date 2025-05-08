@@ -15,12 +15,7 @@ import NormalHeader from "@/components/NormalHeader.vue";
 </template>
 
 <style scoped>
-.normal-header {
-  display: flex;
-  height: 4rem;
-  flex-direction: row;
-  background-color: aqua;
-}
+
 
 
 
